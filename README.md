@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Jenil Prajapati<br><br>🚀 Aspiring **AI & Machine Learning Engineer** | Data Scientist  <br>💡 Passionate about building **end-to-end ML & LLM systems** that solve real-world problems  <br>📍 India  <br><br>---<br>
+# 👋 Hi, I'm Jenil Prajapati<br><br>🚀 Aspiring **AI & Machine Learning Engineer** | Data Scientist  <br>💡 Passionate about building **end-to-end ML & LLM systems** that solve real-world problems  <br>📍 India  <br>
 
 
 ## 🌐 Socials:
