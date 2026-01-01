@@ -1,87 +1,21 @@
-# 👋 Hi, I'm Jenil Prajapati
+# 💫 About Me:
+# 👋 Hi, I'm Jenil Prajapati<br><br>🚀 Aspiring **AI & Machine Learning Engineer** | Data Scientist  <br>💡 Passionate about building **end-to-end ML & LLM systems** that solve real-world problems  <br>📍 India  <br><br>---<br><br>## 🧠 About Me<br>I am an AI & ML enthusiast with hands-on experience in **machine learning, deep learning, data analysis, and MLOps**.  <br>I focus on building **production-ready, scalable ML solutions**, not just notebooks.<br><br>I enjoy working on:<br>- Real-world datasets<br>- End-to-end ML pipelines<br>- LLM-based intelligent systems<br>- Cloud & MLOps workflows<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### 🔹 Programming & Core<br>- Python<br>- SQL<br>- Data Structures & Algorithms<br>- OOPs<br><br>### 🔹 Machine Learning & AI<br>- Supervised & Unsupervised Learning<br>- Model Evaluation & Optimization<br>- Feature Engineering<br>- Deep Learning (CNN, ANN basics)<br>- End-to-End ML Pipelines<br><br>### 🔹 LLM & GenAI<br>- Large Language Models (LLMs)<br>- Fine-Tuning LLMs<br>- Retrieval-Augmented Generation (RAG)<br>- Vector Databases & AI Vector Search<br>- Prompt Engineering<br><br>### 🔹 MLOps & Workflow<br>- Apache Airflow (Data & ML Pipelines)<br>- Model Versioning<br>- Experiment Tracking<br>- Deployment & Monitoring<br><br>### 🔹 Cloud & DevOps<br>- AWS (EC2, S3, Lambda, SageMaker)<br>- Docker<br>- CI/CD Basics<br><br>### 🔹 Data & Visualization<br>- Pandas, NumPy<br>- Matplotlib, Seaborn<br>- Power BI<br>- Jupyter Notebook<br><br>---<br><br>## 📂 Featured Projects<br>🔹 **House Price Prediction** – End-to-end ML regression pipeline  <br>🔹 **Heart Failure EDA** – Data analysis & insights generation  <br>🔹 **GDP Analysis** – Global economic data exploration  <br>🔹 **LLM-based Applications** – RAG & fine-tuned LLM workflows *(ongoing)*  <br><br>➡️ Check repositories for code, results, and documentation.<br><br>---<br><br>## 🧪 What I Focus On<br>- Writing clean, readable, and scalable ML code<br>- Turning notebooks into deployable systems<br>- Applying AI to healthcare, finance, and automation<br>- Learning industry-level ML engineering practices<br><br>---<br><br>## 📫 Connect With Me<br>- 📧 Email: **jenilprajapatiy@gmail.com**<br>- 💼 LinkedIn: [Jenil Prajapati](https://www.linkedin.com/in/jenil-prajapati-4560702a6)<br>- 🧑‍💻 GitHub: [Jenilprajapati01](https://github.com/Jenilprajapati01)<br><br>---<br><br>⭐ If you like my work, consider giving a star to the repositories!<br>
 
-🚀 Aspiring **AI & Machine Learning Engineer** | Data Scientist  
-💡 Passionate about building **end-to-end ML & LLM systems** that solve real-world problems  
-📍 India  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ezyy_tech?igsh=MXFncWN5NG50N3piNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jenil-prajapati-4560702a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenilprajapatiy@gmail.com) 
 
-## 🧠 About Me
-I am an AI & ML enthusiast with hands-on experience in **machine learning, deep learning, data analysis, and MLOps**.  
-I focus on building **production-ready, scalable ML solutions**, not just notebooks.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jenilprajapati01&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jenilprajapati01&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilprajapati01&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I enjoy working on:
-- Real-world datasets
-- End-to-end ML pipelines
-- LLM-based intelligent systems
-- Cloud & MLOps workflows
-
----
-
-## 🛠️ Technical Skills
-
-### 🔹 Programming & Core
-- Python
-- SQL
-- Data Structures & Algorithms
-- OOPs
-
-### 🔹 Machine Learning & AI
-- Supervised & Unsupervised Learning
-- Model Evaluation & Optimization
-- Feature Engineering
-- Deep Learning (CNN, ANN basics)
-- End-to-End ML Pipelines
-
-### 🔹 LLM & GenAI
-- Large Language Models (LLMs)
-- Fine-Tuning LLMs
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases & AI Vector Search
-- Prompt Engineering
-
-### 🔹 MLOps & Workflow
-- Apache Airflow (Data & ML Pipelines)
-- Model Versioning
-- Experiment Tracking
-- Deployment & Monitoring
-
-### 🔹 Cloud & DevOps
-- AWS (EC2, S3, Lambda, SageMaker)
-- Docker
-- CI/CD Basics
-
-### 🔹 Data & Visualization
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Power BI
-- Jupyter Notebook
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jenilprajapati01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Featured Projects
-🔹 **House Price Prediction** – End-to-end ML regression pipeline  
-🔹 **Heart Failure EDA** – Data analysis & insights generation  
-🔹 **GDP Analysis** – Global economic data exploration  
-🔹 **LLM-based Applications** – RAG & fine-tuned LLM workflows *(ongoing)*  
-
-➡️ Check repositories for code, results, and documentation.
-
----
-
-## 🧪 What I Focus On
-- Writing clean, readable, and scalable ML code
-- Turning notebooks into deployable systems
-- Applying AI to healthcare, finance, and automation
-- Learning industry-level ML engineering practices
-
----
-
-## 📫 Connect With Me
-- 📧 Email: **jenilprajapatiy@gmail.com**
-- 💼 LinkedIn: [Jenil Prajapati](https://www.linkedin.com/in/jenil-prajapati-4560702a6)
-- 🧑‍💻 GitHub: [Jenilprajapati01](https://github.com/Jenilprajapati01)
-
----
-
-⭐ If you like my work, consider giving a star to the repositories!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
